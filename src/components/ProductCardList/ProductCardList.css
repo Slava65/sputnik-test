@@ -1,0 +1,8 @@
+.productcardlist__title {
+    margin-top: 50px;
+}
+
+.productcardlist__list {
+    margin-top: 50px;
+    width: calc(100% - 40px)
+}
